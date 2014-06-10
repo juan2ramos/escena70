@@ -56,13 +56,19 @@
 </div>
 
 <nav>
-
+    <?php $class='class="active"'?>
     <ul id="nav">
-        <li><a href="about" class="active">sobre escena 70</a></li>
-        <li><a href="programmers">programadores</a></li>
-        <li><a href="artists">artistas</a></li>
-        <li><a href="useful-data">datos útiles</a></li>
-        <li><a href="contact">contacto</a></li>
+        <li><a href="home" <?php if('home'==$url){echo($class);}?>>sobre escena 70</a></li>
+        <li>
+            <a href="#" <?php if('program'==$url){echo($class);}?>>programadores</a>
+            <span class="tooltip">Muy pronto ...</span>
+        </li>
+        <li>
+            <a href="#"<?php if('artist'==$url){echo($class);}?>>artistas</a>
+            <span class="tooltip">Muy pronto ...</span>
+        </li>
+        <!--<li><a href="useful-data">datos útiles</a></li>-->
+        <li><a href="contact" <?php if('contact'==$url){echo($class);}?>>contacto</a></li>
     </ul>
 </nav>
 

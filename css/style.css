@@ -106,6 +106,7 @@ Nav
 }
 #nav li{
     display: inline-block;
+    position: relative;
 }
 #nav a:hover, #nav .active{
     background: #f8db00;
@@ -162,8 +163,19 @@ Nav
 .network ul{
     display: inline-block;
 }
-
-
+#nav li:hover .tooltip{
+    display: block;
+}
+.tooltip{
+    background:#f8db00 ;
+    color: #373839;
+    font-size: .9em;
+    display: none;
+    padding: 4px 5px;
+    position: absolute;
+    text-align: right;
+    width: 100%;
+}
 
 /*=================================================================
 Footer
@@ -270,4 +282,49 @@ home
     color: #f8db00;
     display: inline-block;
     font-size: 1.7em;
+}
+/*=================================================================
+Form Contact
+===================================================================*/
+#form-contact{
+    margin: 20px auto;
+    width: 960px;
+    text-align: right;
+}
+.input-contend{
+    padding: 10px;
+}
+.input-contend label{
+    display: inline-block;
+    margin-right:50px;
+    width: 100px;
+}
+.input-contend input, .input-contend textarea{
+    border: none;
+    box-shadow: inset 1px 1px 5px rgba(108, 108, 108, 0.41);
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 50px;
+    padding: 0 20px;
+    width: 779px;
+}
+.input-contend textarea{
+    height: 100px;
+    padding-top: 10px;
+}
+.submit{
+    background: #f8db00;
+    border-bottom: 3px solid #D9C007;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    color: #48463F;
+    margin: 10px;
+    padding: 10px 50px;
+}
+.submit:hover{
+    border-bottom: none;
+    box-shadow: inset 1px 1px 5px rgba(108, 108, 108, 0.41);
+    margin-bottom: 13px;
 }
