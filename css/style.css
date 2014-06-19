@@ -6,11 +6,8 @@
 */
 @font-face {
     font-family: 'icomoon';
-    src:url('fonts/icomoon.eot?-srhekv');
-    src:url('fonts/icomoon.eot?#iefix-srhekv') format('embedded-opentype'),
-    url('fonts/icomoon.woff?-srhekv') format('woff'),
-    url('fonts/icomoon.ttf?-srhekv') format('truetype'),
-    url('fonts/icomoon.svg?-srhekv#icomoon') format('svg');
+    src: url('fonts/icomoon.eot?-srhekv');
+    src: url('fonts/icomoon.eot?#iefix-srhekv') format('embedded-opentype'), url('fonts/icomoon.woff?-srhekv') format('woff'), url('fonts/icomoon.ttf?-srhekv') format('truetype'), url('fonts/icomoon.svg?-srhekv#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -32,12 +29,15 @@
 .icon-uniE603:before {
     content: "\e603";
 }
+
 .icon-facebook:before {
     content: "\e600";
 }
+
 .icon-twitter:before {
     content: "\e601";
 }
+
 .icon-pinterest:before {
     content: "\e602";
 }
@@ -69,13 +69,17 @@ h1, h2, h3, ul {
     margin: 0;
     padding: 0;
 }
+
 html, body {
-    width:  100%;
+    width: 100%;
     height: 100%;
     margin: 0;
 }
+
 article, header, footer, nav, section, .divisor, .network {
-    -webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
     margin: 0 auto;
     width: 1060px;
 }
@@ -89,10 +93,12 @@ header {
     margin-top: 20px;
     text-align: center;
 }
-header img{
+
+header img {
     padding: 20px 0;
 }
-.logo-complejo img{
+
+.logo-complejo img {
     padding-top: 30px;
     width: 300px;
 }
@@ -100,20 +106,23 @@ header img{
 /*=================================================================
 Nav
 ===================================================================*/
-#nav{
+#nav {
     text-align: right;
     text-transform: uppercase;
 }
-#nav li{
+
+#nav li {
     display: inline-block;
     position: relative;
 }
-#nav a:hover, #nav .active{
+
+#nav a:hover, #nav .active {
     background: #f8db00;
     color: #373839;
     text-decoration: underline;
 }
-#nav a{
+
+#nav a {
     background: #545454;
     display: block;
     color: #fff;
@@ -124,13 +133,15 @@ Nav
     vertical-align: middle;
     width: 130px;
 }
-.network{
+
+.network {
     border-bottom: 2px solid #545454;
     border-top: 3px solid #f8db00;
     margin: 10px auto;
     padding: 15px 0 12px
 }
-.network h2{
+
+.network h2 {
     display: inline-block;
     color: #48463F;
     font-size: 1.5em;
@@ -140,34 +151,41 @@ Nav
     vertical-align: middle;
     width: 1005px
 }
-.network a{
+
+.network a {
     color: #545454;
     display: block;
     font-size: 1.0em;
     line-height: 0;
-    padding-top:5px;
+    padding-top: 5px;
 }
-.network a:hover{
+
+.network a:hover {
     color: #be6b50;
     border: none;
 }
+
 .network li {
     display: inline-block;
     height: 25px;
     vertical-align: middle;
 }
-.network li:first-child{
-    border-right: solid 1px ;
+
+.network li:first-child {
+    border-right: solid 1px;
     padding-right: 6px;
 }
-.network ul{
+
+.network ul {
     display: inline-block;
 }
-#nav li:hover .tooltip{
+
+#nav li:hover .tooltip {
     display: block;
 }
-.tooltip{
-    background:#f8db00 ;
+
+.tooltip {
+    background: #f8db00;
     color: #373839;
     font-size: .9em;
     display: none;
@@ -183,123 +201,214 @@ Footer
 footer {
     text-align: center;
 }
+
 footer a {
     font-weight: bold;
     color: #fff;
     text-transform: uppercase;
 }
+
 #nav-footer {
-    padding:60px 20px 40px;
+    border-bottom:solid #f8db00 3px;
+    padding: 60px 20px 0;
 }
-#nav-footer img{
+
+#nav-footer img {
     max-height: 50px
 }
 
 #nav-footer li {
     display: inline-block;
-    margin: 25px 40px;
+    margin: 25px 0;
+    width: 32%
 }
 
 /*=================================================================
 slide
 ===================================================================*/
-#slide{
+#slide {
     margin: 20px auto;
 }
+
+#slide img {
+    max-width: 1060px
+}
+
 /*=================================================================
 home
 ===================================================================*/
-.article-contend h2{
+.article-contend h2 {
     background: #fff;
     display: inline-block;
-    font-size: 1em;
+    font-size: 1.25em;
     position: relative;
     text-align: right;
     text-transform: uppercase;
-    z-index:2;
+    z-index: 2;
 }
-.article-contend h2 b{
+
+.article-contend h2 b {
     color: #f8db00;
-    font-size: 2em;
+    font-size: 2.9rem;
 }
-.article-contend hr{
+
+.article-contend hr {
+    border: 1px solid rgb(255, 249, 3);
     bottom: 3px;
     margin: 0;
     position: absolute;
     width: 90%;
     z-index: 1
 }
-.lines{
+
+.article-contend hr.color-hr {
+    border: 1px solid rgb(47, 47, 52);
+}
+
+.article-last {
+    margin-top: 235px;
+    text-align: right;
+}
+
+.home .article-last p {
+    font-size: 1.1em;
+    font-weight: 500;
+    margin: 15px 0 3px;
+    text-align: right;
+}
+.home .second p{
+  text-align: left;
+}
+.second .article-last h3 {
+    font-size: 2.3em;
+    padding: 0;
+}
+
+.second .article-last h4 {
+    font-size: 1.75em;
+    font-weight: 500;
+    margin: 0;
+}
+
+.lines {
     border-bottom: 2px solid #545454;
     border-top: 2px solid #545454;
     display: inline-block;
     height: 10px;
-    width: 1042px;
+    width: 1037px;
 }
-.first{
-    border-right: 2px solid #f8db00 ;
+
+.first {
+    border-right: 2px solid #f8db00;
     padding-right: 30px;
 }
-.home article{
-     display: inline-block;
-     margin: 10px 0;
-     vertical-align: top;
-     width: 49.5%;
- }
-.image img{
-    margin: 10px 0;
-    width: 490px;
-}
-.image figcaption{
 
-    position: relative;
-    width: 100%;
+.home article {
+    color: #575757;
+    display: inline-block;
+    margin: 10px 0;
+    vertical-align: top;
+    width: 49.5%;
 }
-.image figcaption{
-    height: 40px;
-}
-.image figcaption span{
-    background: #f8db00;
-    color: #373839;
-    display: block;
+
+.home p {
     font-size: .9em;
-    font-style: italic;
-    padding: 12px 5px 5px 15px;
-    position: absolute;
-    right: -3px;
-    text-transform: uppercase;
-    top: -4px;
+    text-align: justify;
+    line-height: 1.25em;
+}
+
+.home h3 {
+    font-size: .9em;
+    font-weight: bold;
+}
+
+.home h3 + p {
+    margin-top: 0;
+}
+
+.image img {
+    display: inline-block;
+    width: 331px;
+}
+
+.image figcaption {
+    background: #f8db00;
+    display: inline-block;
+    height: 498px;
+    margin-left: 2px;
+    position: relative;
+    vertical-align: top;
+    width: 154px;
+}
+
+.image figcaption span {
+    display: block;
+    margin-bottom: 5px;
     text-decoration: underline;
 }
-.second{
+
+.image figcaption p {
+    bottom: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-style: italic;
+    font-weight: 500;
+    font-size: .95em;
+    margin: 0;
+    padding: 0 7px;
+    position: absolute;
+    text-align: right;
+    width: 100%;
+}
+
+.second {
     padding-left: 30px;
 }
-.title-conted{
+
+.second h3 {
+    padding: 15px 0
+}
+
+.second a {
+    color: #575757;
+    font-weight: bold;
+}
+
+.second a:hover {
+    color: #f8db00;
+}
+
+.title-conted {
     position: relative;
     text-align: right;
 }
-.plus{
+
+.plus {
     color: #f8db00;
     display: inline-block;
     font-size: 1.7em;
 }
+
 /*=================================================================
 Form Contact
 ===================================================================*/
-#form-contact{
+#form-contact {
     margin: 20px auto;
     width: 960px;
     text-align: right;
 }
-.input-contend{
+
+.input-contend {
     padding: 10px;
 }
-.input-contend label{
+
+.input-contend label {
     display: inline-block;
-    margin-right:50px;
+    margin-right: 50px;
     width: 100px;
 }
-.input-contend input, .input-contend textarea{
+
+.input-contend input, .input-contend textarea {
     border: none;
     box-shadow: inset 1px 1px 5px rgba(108, 108, 108, 0.41);
     -moz-box-sizing: border-box;
@@ -309,11 +418,13 @@ Form Contact
     padding: 0 20px;
     width: 779px;
 }
-.input-contend textarea{
+
+.input-contend textarea {
     height: 100px;
     padding-top: 10px;
 }
-.submit{
+
+.submit {
     background: #f8db00;
     border-bottom: 3px solid #D9C007;
     border-left: none;
@@ -323,7 +434,8 @@ Form Contact
     margin: 10px;
     padding: 10px 50px;
 }
-.submit:hover{
+
+.submit:hover {
     border-bottom: none;
     box-shadow: inset 1px 1px 5px rgba(108, 108, 108, 0.41);
     margin-bottom: 13px;
