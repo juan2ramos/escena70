@@ -77,13 +77,13 @@
 <footer>
     <ul id="nav-footer">
 
-        <li><a href="#"><img src="images/buenos-aires.png"></a></li>
         <li><a href="#"><img src="images/70-teatro.png"></a></li>
         <li><a href="#"><img src="images/redlat.png"></a></li>
         <li><a href="#"><img src="images/circulart.png"></a></li>
         <li><a href="#"><img src="images/teatro-picadero.png"></a></li>
         <li><a href="#"><img src="images/grupo-la-plaza.png"></a></li>
         <li><a href="#"><img src="images/san-martin.png"></a></li>
+        <li><a href="#"><img src="images/buenos-aires.png"></a></li>
 
     </ul>
 </footer>
