@@ -1,4 +1,4 @@
-<section class="travel-information">
+<section class="<?php echo($url) ?>">
     <article class="first image">
         <figure>
             <img src="images/foto1.jpg" alt="foto 1"/>

@@ -27,24 +27,14 @@
     <div class="contact-info">
         <h3>O puedes escribirle a...</h3>
         <div>
-            Información General REDLAT<br>
-            <a href="mailto:info@redlat.org">info@redlat.org</a><br>
+            Coordinación Artistas Ruedas de Negocios<br>
+            <a href="mailto:convocatoriaescena70@complejoteatral.gob.ar">convocatoriaescena70@complejoteatral.gob.ar</a><br>
         </div>
         <div>
-            Información General CIRCULART<br>
-            <a href="mailto:info@circulart.org">info@circulart.org</a><br>
+            Coordinación Programadores rueda de Negocios<br>
+            <a href="mailto:programadoresescena70@complejoteatral.gob.ar">programadoresescena70@complejoteatral.gob.ar</a><br>
         </div>
 
-        <div>
-            Coordinación Artistas Ruedas de Negocios<br>
-            Milena García<br>
-            <a href="mailto:milenagarcia@circulart.org">milenagarcia@circulart.org</a><br>
-        </div>
-        <div>
-            Editora web y redes sociales<br>
-            Jenny Giraldo<br>
-            <a href="mailto:jennygiraldo@redlat.org">jennygiraldo@redlat.org</a><br>
-        </div>
     </div>
 </section>
 <div class="divisor">
