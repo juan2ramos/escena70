@@ -71,7 +71,7 @@
             <span class="tooltip">Muy pronto ...</span>
         </li>
         <!--<li><a href="useful-data">datos útiles</a></li>-->
-        <li><a href="contacto" <?php if('contacto'==$url){echo($class);}?>>contacto</a></li>
+        <li><a href="contactenos" <?php if('contactenos'==$url){echo($class);}?>>contacto</a></li>
     </ul>
 </nav>
 
