@@ -33,8 +33,6 @@
         </p>
 
 
-        <h3>MUESTRAS ARTÍSTICAS ESCENA 70 </h3>
-
 
     </article>
 

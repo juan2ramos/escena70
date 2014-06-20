@@ -67,8 +67,7 @@
             <span class="tooltip">Muy pronto ...</span>
         </li>
         <li>
-            <a href="#"<?php if('artist'==$url){echo($class);}?>>artistas</a>
-            <span class="tooltip">Muy pronto ...</span>
+            <a href="http://escena70.complejoteatral.gob.ar/m/index.php?modo=inscripciones" target="_blank">convocatoria</a>
         </li>
         <!--<li><a href="useful-data">datos útiles</a></li>-->
         <li><a href="contactenos" <?php if('contactenos'==$url){echo($class);}?>>contacto</a></li>
