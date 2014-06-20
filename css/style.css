@@ -234,7 +234,7 @@ slide
 }
 
 /*=================================================================
-home
+inicio
 ===================================================================*/
 
 .article-contend h2 {
@@ -269,16 +269,16 @@ home
     margin-top: 235px;
     text-align: right;
 }
-.home{
+.inicio{
     margin: 25px auto;
 }
-.home .article-last p {
+.inicio .article-last p {
     font-size: 1.1em;
     font-weight: 500;
     margin: 15px 0 3px;
     text-align: right;
 }
-.home .second p{
+.inicio .second p{
   text-align: left;
 }
 .second .article-last h3 {
@@ -313,7 +313,7 @@ home
 .first a:hover {
     color: #f8db00;
 }
-.home article {
+.inicio article {
     color: #575757;
     display: inline-block;
     margin: 10px 0;
@@ -321,18 +321,18 @@ home
     width: 49.5%;
 }
 
-.home p {
+.inicio p {
     font-size: .9em;
     text-align: justify;
     line-height: 1.25em;
 }
 
-.home h3 {
+.inicio h3 {
     font-size: .9em;
     font-weight: bold;
 }
 
-.home h3 + p {
+.inicio h3 + p {
     margin-top: 0;
 }
 
@@ -354,7 +354,6 @@ home
 .image figcaption span {
     display: block;
     margin-bottom: 5px;
-    text-decoration: underline;
 }
 
 .image figcaption p {
@@ -402,39 +401,39 @@ home
 /*=================================================================
 Form Contact
 ===================================================================*/
-#form-contact {
+#form-contacto {
     display: inline-block;
     margin: 20px auto;
     text-align: right;
     vertical-align: top;
     width: 680px;
 }
-.contact{
+.contacto{
     margin: 25px auto;
 }
-.contact-info{
+.contacto-info{
     color: #575757;
     display: inline-block;
     font-size: .9em;
     margin: 25px;
     vertical-align: top;
-    width: 300px;
+    width: 320px;
 }
-.contact-info a {
+.contacto-info a {
     color: #575757;
     font-size: .9em;
     font-weight: bold;
 }
 
-.contact-info a:hover {
+.contacto-info a:hover {
     color: #f8db00;
 }
-.contact-info h3{
+.contacto-info h3{
     font-size: 1.05em;
     font-weight: bold;
     margin-bottom: 20px;
 }
-.contact-info div{
+.contacto-info div{
     margin: 10px 0;
 }
 .input-contend {
@@ -480,51 +479,51 @@ Form Contact
     margin-bottom: 13px;
 }
 /*=================================================================
-business presentation
+business presentacion-artistas
 ===================================================================*/
-.business a, .presentation a {
+.rueda-de-negocios a, .presentacion-artistas a {
     color: #575757;
     font-size: .9em;
     font-weight: bold;
 }
 
-.business a:hover, .presentation a:hover{
+.rueda-de-negocios a:hover, .presentacion-artistas a:hover{
     color: #f8db00;
 }
-.business h3, .presentation h3{
+.rueda-de-negocios h3, .presentacion-artistas h3{
     color:#575757 ;
     font-size: 1em;
     font-weight: bold;
 }
-.business p, .presentation p{
+.rueda-de-negocios p, .presentacion-artistas p{
     color: #575757;
     font-size: .9em;
 }
 .inline{
     display: inline-block;
 }
-.presentation .plus{
+.presentacion-artistas .plus{
     font-size: 1.1em;
 }
 
 
-.travel-information{
+.datos-utiles{
     margin: 25px auto;
 }
-.travel-information .article-last{
+.datos-utiles .article-last{
     margin-top: 320px;
 }
-.travel-information .article-last p {
+.datos-utiles .article-last p {
     font-size: 1.1em;
     font-weight: 500;
     margin: 15px 0 3px;
     text-align: right;
 }
-.travel-information .second p{
+.datos-utiles .second p{
     text-align: left;
 }
 
-.travel-information article {
+.datos-utiles article {
     color: #575757;
     display: inline-block;
     margin: 10px 0;
@@ -532,17 +531,17 @@ business presentation
     width: 49.5%;
 }
 
-.travel-information p {
+.datos-utiles p {
     font-size: .9em;
     text-align: justify;
     line-height: 1.25em;
 }
 
-.travel-information h3 {
+.datos-utiles h3 {
     font-size: .9em;
     font-weight: bold;
 }
 
-.travel-information  h3 + p {
+.datos-utiles  h3 + p {
     margin-top: 0;
 }

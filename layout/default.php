@@ -58,10 +58,10 @@
 <nav>
     <?php $class='class="active"'?>
     <ul id="nav">
-        <li><a href="home" <?php if('home'==$url){echo($class);}?>>sobre escena 70</a></li>
-        <li><a href="business" <?php if('business'==$url){echo($class);}?>>rueda de negocios</a></li>
-        <li><a href="presentation" <?php if('presentation'==$url){echo($class);}?>>Presentación de artistas</a></li>
-        <li><a href="travel-information" <?php if('travel-information'==$url){echo($class);}?>>Datos útiles</a></li>
+        <li><a href="inicio" <?php if('inicio'==$url){echo($class);}?>>sobre escena 70</a></li>
+        <li><a href="rueda-de-negocios" <?php if('rueda-de-negocios'==$url){echo($class);}?>>rueda de negocios</a></li>
+        <li><a href="presentacion-artistas" <?php if('presentacion-artistas'==$url){echo($class);}?>>Presentación de artistas</a></li>
+        <li><a href="datos-utiles" <?php if('datos-utiles'==$url){echo($class);}?>>Datos útiles</a></li>
         <li>
             <a href="#" <?php if('program'==$url){echo($class);}?>>programadores</a>
             <span class="tooltip">Muy pronto ...</span>
@@ -71,7 +71,7 @@
             <span class="tooltip">Muy pronto ...</span>
         </li>
         <!--<li><a href="useful-data">datos útiles</a></li>-->
-        <li><a href="contact" <?php if('contact'==$url){echo($class);}?>>contacto</a></li>
+        <li><a href="contacto" <?php if('contacto'==$url){echo($class);}?>>contacto</a></li>
     </ul>
 </nav>
 
