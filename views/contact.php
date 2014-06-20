@@ -24,6 +24,28 @@
 
         <input type="submit" class="submit"/>
     </form>
+    <div class="contact-info">
+        <h3>O puedes escribirle a...</h3>
+        <div>
+            Información General REDLAT<br>
+            <a href="mailto:info@redlat.org">info@redlat.org</a><br>
+        </div>
+        <div>
+            Información General CIRCULART<br>
+            <a href="mailto:info@circulart.org">info@circulart.org</a><br>
+        </div>
+
+        <div>
+            Coordinación Artistas Ruedas de Negocios<br>
+            Milena García<br>
+            <a href="mailto:milenagarcia@circulart.org">milenagarcia@circulart.org</a><br>
+        </div>
+        <div>
+            Editora web y redes sociales<br>
+            Jenny Giraldo<br>
+            <a href="mailto:jennygiraldo@redlat.org">jennygiraldo@redlat.org</a><br>
+        </div>
+    </div>
 </section>
 <div class="divisor">
     <div class="lines"></div><span class="plus">+</span>

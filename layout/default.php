@@ -59,6 +59,9 @@
     <?php $class='class="active"'?>
     <ul id="nav">
         <li><a href="home" <?php if('home'==$url){echo($class);}?>>sobre escena 70</a></li>
+        <li><a href="business" <?php if('business'==$url){echo($class);}?>>rueda de negocios</a></li>
+        <li><a href="presentation" <?php if('presentation'==$url){echo($class);}?>>Presentación de artistas</a></li>
+        <li><a href="travel-information" <?php if('travel-information'==$url){echo($class);}?>>Datos útiles</a></li>
         <li>
             <a href="#" <?php if('program'==$url){echo($class);}?>>programadores</a>
             <span class="tooltip">Muy pronto ...</span>
@@ -77,12 +80,12 @@
 <footer>
     <ul id="nav-footer">
 
-        <li><a href="#"><img src="images/70-teatro.png"></a></li>
-        <li><a href="#"><img src="images/redlat.png"></a></li>
-        <li><a href="#"><img src="images/circulart.png"></a></li>
-        <li><a href="#"><img src="images/teatro-picadero.png"></a></li>
-        <li><a href="#"><img src="images/grupo-la-plaza.png"></a></li>
-        <li><a href="#"><img src="images/san-martin.png"></a></li>
+        <li><a href="http://complejoteatral.gob.ar/" target="_blank"><img src="images/70-teatro.png"></a></li>
+        <li><a href="http://redlat.org" target="_blank"><img src="images/redlat.png"></a></li>
+        <li><a href="http://circulart.org" target="_blank"><img src="images/circulart.png"></a></li>
+        <li><a href="http://www.teatropicadero.com.ar" target="_blank"><img src="images/teatro-picadero.png"></a></li>
+        <li><a href="http://www.paseolaplaza.com.ar" target="_blank"><img src="images/grupo-la-plaza.png"></a></li>
+        <li><a href="http://complejoteatral.gob.ar/institucional/estructura?ascm_content_change=Teatro_SanMartin" target="_blank"><img src="images/san-martin.png"></a></li>
         <li><a href="#"><img src="images/buenos-aires.png"></a></li>
 
     </ul>
