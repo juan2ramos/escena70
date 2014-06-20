@@ -27,11 +27,11 @@
     <div class="contact-info">
         <h3>O puedes escribirle a...</h3>
         <div>
-            Coordinación Artistas Ruedas de Negocios<br>
+            Coordinación Artistas Rueda de Negocios<br>
             <a href="mailto:convocatoriaescena70@complejoteatral.gob.ar">convocatoriaescena70@complejoteatral.gob.ar</a><br>
         </div>
         <div>
-            Coordinación Programadores rueda de Negocios<br>
+            Coordinación Programadores Rueda de Negocios<br>
             <a href="mailto:programadoresescena70@complejoteatral.gob.ar">programadoresescena70@complejoteatral.gob.ar</a><br>
         </div>
 
