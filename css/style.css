@@ -131,7 +131,6 @@ Nav
     padding: 7px;
     text-align: right;
     vertical-align: middle;
-    width: 130px;
 }
 
 .network {
@@ -187,7 +186,7 @@ Nav
 .tooltip {
     background: #f8db00;
     color: #373839;
-    font-size: .9em;
+    font-size: .6em;
     display: none;
     padding: 4px 5px;
     position: absolute;
@@ -237,6 +236,7 @@ slide
 /*=================================================================
 home
 ===================================================================*/
+
 .article-contend h2 {
     background: #fff;
     display: inline-block;
@@ -269,7 +269,9 @@ home
     margin-top: 235px;
     text-align: right;
 }
-
+.home{
+    margin: 25px auto;
+}
 .home .article-last p {
     font-size: 1.1em;
     font-weight: 500;
@@ -302,7 +304,15 @@ home
     border-right: 2px solid #f8db00;
     padding-right: 30px;
 }
+.first a {
+    color: #575757;
+    font-size: .9em;
+    font-weight: bold;
+}
 
+.first a:hover {
+    color: #f8db00;
+}
 .home article {
     color: #575757;
     display: inline-block;
@@ -393,11 +403,40 @@ home
 Form Contact
 ===================================================================*/
 #form-contact {
+    display: inline-block;
     margin: 20px auto;
-    width: 960px;
     text-align: right;
+    vertical-align: top;
+    width: 680px;
+}
+.contact{
+    margin: 25px auto;
+}
+.contact-info{
+    color: #575757;
+    display: inline-block;
+    font-size: .9em;
+    margin: 25px;
+    vertical-align: top;
+    width: 300px;
+}
+.contact-info a {
+    color: #575757;
+    font-size: .9em;
+    font-weight: bold;
 }
 
+.contact-info a:hover {
+    color: #f8db00;
+}
+.contact-info h3{
+    font-size: 1.05em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.contact-info div{
+    margin: 10px 0;
+}
 .input-contend {
     padding: 10px;
 }
@@ -416,7 +455,7 @@ Form Contact
     box-sizing: border-box;
     height: 50px;
     padding: 0 20px;
-    width: 779px;
+    width: 500px;
 }
 
 .input-contend textarea {
@@ -439,4 +478,71 @@ Form Contact
     border-bottom: none;
     box-shadow: inset 1px 1px 5px rgba(108, 108, 108, 0.41);
     margin-bottom: 13px;
+}
+/*=================================================================
+business presentation
+===================================================================*/
+.business a, .presentation a {
+    color: #575757;
+    font-size: .9em;
+    font-weight: bold;
+}
+
+.business a:hover, .presentation a:hover{
+    color: #f8db00;
+}
+.business h3, .presentation h3{
+    color:#575757 ;
+    font-size: 1em;
+    font-weight: bold;
+}
+.business p, .presentation p{
+    color: #575757;
+    font-size: .9em;
+}
+.inline{
+    display: inline-block;
+}
+.presentation .plus{
+    font-size: 1.1em;
+}
+
+
+.travel-information{
+    margin: 25px auto;
+}
+.travel-information .article-last{
+    margin-top: 320px;
+}
+.travel-information .article-last p {
+    font-size: 1.1em;
+    font-weight: 500;
+    margin: 15px 0 3px;
+    text-align: right;
+}
+.travel-information .second p{
+    text-align: left;
+}
+
+.travel-information article {
+    color: #575757;
+    display: inline-block;
+    margin: 10px 0;
+    vertical-align: top;
+    width: 49.5%;
+}
+
+.travel-information p {
+    font-size: .9em;
+    text-align: justify;
+    line-height: 1.25em;
+}
+
+.travel-information h3 {
+    font-size: .9em;
+    font-weight: bold;
+}
+
+.travel-information  h3 + p {
+    margin-top: 0;
 }
