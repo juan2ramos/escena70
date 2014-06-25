@@ -17,7 +17,6 @@
         <p>
             Durante tres días empresarios culturales, productores, managers, creadores, especialistas en marketing cultural y artistas, encontrarán en <b>Escena 70</b> la oportunidad ideal para conocer las mejores propuestas de teatro, danza, performance y títeres producidas en Buenos Aires, intercambiar experiencias de negocios, ampliar los circuitos de recepción y consumo de sus productos culturales, negociar las condiciones de presentación y circulación, y sobre todo, abrir las puertas del mundo a la diversidad cultural porteña.
         </p>
-        <a href="http://complejoteatral.gob.ar/institucional/estructura?ascm_content_change=Teatro_SanMartin">Teatro San Martín</a>
         <p>Organiza Complejo Teatral de Buenos Aires</p>
 
         <p>En colaboración con Redlat Colombia / Circulart</p>
@@ -35,8 +34,9 @@
 
         <p><b>20 de julio: </b>Cierre inscripciones </p>
 
-        <p><b>Tercera semana de agosto:</b> Publicación de resultados
-            <b>6 de septiembre:</b> Apertura agendamiento de citas entre Artistas y Profesionales </p>
+        <p><b>Tercera semana de agosto:</b> Publicación de resultados</p>
+
+        <p>    <b>6 de septiembre:</b> Apertura agendamiento de citas entre Artistas y Profesionales </p>
 
         <p><b>27 de septiembre:</b> Cierre agendamiento </p>
 
@@ -59,7 +59,10 @@
 <section class="<?php echo($url) ?>">
     <article class="first image">
         <figure>
+
+            <a href="http://complejoteatral.gob.ar/institucional/estructura?ascm_content_change=Teatro_SanMartin">
             <img src="images/foto1.jpg" alt="foto 1"/>
+            </a>
             <figcaption>
                 <p>Teatro Municipal <span>&nbsp&nbspGeneral San Martín</span>
                 </p>

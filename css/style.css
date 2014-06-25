@@ -160,7 +160,7 @@ Nav
 }
 
 .network a:hover {
-    color: #be6b50;
+    color: #f8db00;
     border: none;
 }
 
@@ -479,30 +479,30 @@ Form Contact
     margin-bottom: 13px;
 }
 /*=================================================================
-business presentacion-artistas
+business presentaciones-artisticas
 ===================================================================*/
-.rueda-de-negocios a, .presentacion-artistas a {
+.rueda-de-negocios a, .presentaciones-artisticas a {
     color: #575757;
     font-size: .9em;
     font-weight: bold;
 }
 
-.rueda-de-negocios a:hover, .presentacion-artistas a:hover{
+.rueda-de-negocios a:hover, .presentaciones-artisticas a:hover{
     color: #f8db00;
 }
-.rueda-de-negocios h3, .presentacion-artistas h3{
+.rueda-de-negocios h3, .presentaciones-artisticas h3{
     color:#575757 ;
     font-size: 1em;
     font-weight: bold;
 }
-.rueda-de-negocios p, .presentacion-artistas p{
+.rueda-de-negocios p, .presentaciones-artisticas p{
     color: #575757;
     font-size: .9em;
 }
 .inline{
     display: inline-block;
 }
-.presentacion-artistas .plus{
+.presentaciones-artisticas .plus{
     font-size: 1.1em;
 }
 
@@ -511,7 +511,7 @@ business presentacion-artistas
     margin: 25px auto;
 }
 .datos-utiles .article-last{
-    margin-top: 320px;
+    margin-top:297px;
 }
 .datos-utiles .article-last p {
     font-size: 1.1em;

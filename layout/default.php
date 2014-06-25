@@ -49,8 +49,8 @@
 
 <div class="network">
     <ul>
-        <li id="twitter"><a href="#"><span class="icon-twitter"></span></a></li>
-        <li id="facebook"><a href="#"><span class="icon-facebook"></span></a></li>
+        <li id="twitter"><a href="https://twitter.com/TeatroSMOficial" target="_blank"><span class="icon-twitter"></span></a></li>
+        <li id="facebook"><a href="https://www.facebook.com/TeatroSanMartinOficial" target="_blank"><span class="icon-facebook"></span></a></li>
     </ul>
     <h2>mercado de artes escénicas de <b>buenos aires</b></h2>
 </div>
@@ -59,16 +59,16 @@
     <?php $class='class="active"'?>
     <ul id="nav">
         <li><a href="inicio" <?php if('inicio'==$url){echo($class);}?>>sobre escena 70</a></li>
-        <li><a href="rueda-de-negocios" <?php if('rueda-de-negocios'==$url){echo($class);}?>>rueda de negocios</a></li>
-        <li><a href="presentacion-artistas" <?php if('presentacion-artistas'==$url){echo($class);}?>>Presentación de artistas</a></li>
-        <li><a href="datos-utiles" <?php if('datos-utiles'==$url){echo($class);}?>>Datos útiles</a></li>
+        <li>
+            <a href="http://escena70.complejoteatral.gob.ar/m/index.php?modo=inscripciones" target="_blank">convocatoria</a>
+        </li>
         <li>
             <a href="#" <?php if('program'==$url){echo($class);}?>>programadores</a>
             <span class="tooltip">Muy pronto ...</span>
         </li>
-        <li>
-            <a href="http://escena70.complejoteatral.gob.ar/m/index.php?modo=inscripciones" target="_blank">convocatoria</a>
-        </li>
+        <li><a href="presentaciones-artisticas" <?php if('presentaciones-artisticas'==$url){echo($class);}?>>Presentaciones artísticas</a></li>
+        <li><a href="rueda-de-negocios" <?php if('rueda-de-negocios'==$url){echo($class);}?>>rueda de negocios</a></li>
+        <li><a href="datos-utiles" <?php if('datos-utiles'==$url){echo($class);}?>>Datos útiles</a></li>
         <!--<li><a href="useful-data">datos útiles</a></li>-->
         <li><a href="contactenos" <?php if('contactenos'==$url){echo($class);}?>>contacto</a></li>
     </ul>

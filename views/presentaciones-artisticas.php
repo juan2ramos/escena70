@@ -6,7 +6,7 @@
         </figure>
     </div>
     <article>
-        <h3>PRESENTACIÓN DE ARTISTAS</h3>
+        <h3>PRESENTACIONES ARTÍSTICAS</h3>
 
         <p>
             Como resultado de la actuación del Jurado de <b>Escena 70 - Mercado de Artes Escénicas de Buenos Aires</b>,
@@ -20,7 +20,9 @@
         <span class="plus">+</span>
         <p class="inline">
             <a href="http://complejoteatral.gob.ar/institucional/estructura?ascm_content_change=Teatro_SanMartin" target="_blank">
-                San Martín / Salas Martín Coronado, Casacuberta, Cunill Cabanellas, Av. Corrientes 1560
+                Teatro San Martín / Salas Martín Coronado, Casacuberta, Cunill Cabanellas
+
+                Av. Corrientes 1530
             </a>
         </p><br/>
         <span class="plus">+</span>
@@ -35,16 +37,8 @@
                 Teatro Picadero, Pasaje Discépolo 1857, Av. Corrientes al 1800
             </a>
         </p><br/>
-        <span class="plus">+</span>
-        <p class="inline">
-            <a href="http://www.paseolaplaza.com.ar/" target="_blank">
-                Paseo La Plaza / Sala Pablo Neruda (), Av. Corrientes 1660
-            </a>
-        </p><br/>
-        <span class="plus">+</span>
-        <p class="inline">
-            <a href="http://www.metropolitanciti.com.ar/ target="_blank"">Teatro Metropolitan Citi / Sala 2 (), Av. Corrientes 1434</a>
-        </p>
+
+
 
     </article>
 

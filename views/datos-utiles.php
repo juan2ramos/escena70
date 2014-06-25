@@ -18,13 +18,14 @@
         </div>
         <div class="article-last">
 
+            <h4><a href="http://www.turismo.buenosaires.gob.ar" target="_blank">_Turismo Buenos Aires</a></h4>
             <h4>
-                <a href="http://complejoteatral.gob.ar/institucional/estructura?ascm_content_change=Teatro_SanMartin">
+                <a href="http://complejoteatral.gob.ar/institucional/estructura?ascm_content_change=Teatro_SanMartin" target="_blank">
                     _CTBA / Teatro San Martín
                 </a>
             </h4>
-            <h4><a href="http://agendacultural.buenosaires.gob.ar">_Agenda cultural de Buenos Aires</a></h4>
-            <h4><a href="http://www.turismo.buenosaires.gob.ar">_Turismo Buenos Aires</a></h4>
+            <h4><a href="http://agendacultural.buenosaires.gob.ar" target="_blank">_Agenda cultural de Buenos Aires</a></h4>
+            <h4><a href="http://mapa.buenosaires.gov.ar/" target="_blank">_Mapa Interactivo de Buenos Aires </a></h4>
 
         </div>
 
