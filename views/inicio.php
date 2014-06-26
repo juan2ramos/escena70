@@ -82,9 +82,9 @@
 
             <h3>2014</h3>
 
-            <p>Escena 70 - Mercado de Artes Escénicas de Buenos Aires</p>
-            <h4>_Muestras artísticas</h4>
-            <h4>_Ruedas de negocios</h4>
+            <p class="right">Escena 70 - Mercado de Artes Escénicas de Buenos Aires</p>
+            <h4>_Presentaciones Artísticas</h4>
+            <h4>_Rueda de Negocios</h4>
         </div>
 
     </article>

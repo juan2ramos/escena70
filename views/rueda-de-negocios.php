@@ -22,7 +22,7 @@
 
         <p>
             - Los artistas podrán generar contactos directos con un gran número de programadores de diferentes circuitos
-            artísticos de Argentina y el mundo, todo en un mismo &nbsp;&nbsp;lugar. </p>
+            artísticos de Argentina y el mundo, todo en un mismo lugar. </p>
 
         <p>
             - Se propiciará la creación de alianzas o intercambios fructíferos. <br/>
@@ -38,7 +38,7 @@
 
         <p>
             . Pre-Rueda: Es la primera etapa, en la cual se realiza la inscripción, la organización de citas y la
-            preparación de todos los materiales que van a llevar los artistas a la &nbsp;&nbsp;rueda. En el caso de Escena 70
+            preparación de todos los materiales que van a llevar los artistas a la rueda. En el caso de Escena 70
             incluirá también la capacitación de los participantes.
         </p>
         <p>
@@ -47,7 +47,7 @@
         </p>
         <p>
             . Post-Rueda: Son las actividades que se llevan a cabo después del evento y se enfoca en el seguimiento a
-            contactos realizados, la evaluación y el monitoreo para &nbsp;&nbsp;medir el impacto de la rueda.
+            contactos realizados, la evaluación y el monitoreo para medir el impacto de la rueda.
 
         </p>
 

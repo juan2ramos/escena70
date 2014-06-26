@@ -545,3 +545,6 @@ business presentaciones-artisticas
 .datos-utiles  h3 + p {
     margin-top: 0;
 }
+.inicio .second p.right {
+    text-align: right;
+}

@@ -37,9 +37,22 @@
                 Teatro Picadero, Pasaje Discépolo 1857, Av. Corrientes al 1800
             </a>
         </p><br/>
+        <span class="plus">+</span>
+        <p class="inline">
+            <a href="http://www.paseolaplaza.com.ar" target="_blank">
+                Paseo La Plaza / Sala Pablo Neruda
 
+                Av. Corrientes 1660
+            </a>
+        </p><br/>
+        <span class="plus">+</span>
+        <p class="inline">
+            <a href="http://www.metropolitanciti.com.ar" target="_blank">
+                Teatro Metropolitan Citi / Sala 2
 
-
+                Av. Corrientes 1434
+            </a>
+        </p>
     </article>
 
 </section>
