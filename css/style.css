@@ -396,10 +396,11 @@ inicio
     color: #f8db00;
     display: inline-block;
     font-size: 1.7em;
+}
+.presentaciones-artisticas .plus{
     margin: 10px 0;
     vertical-align: top;
 }
-
 /*=================================================================
 Form Contact
 ===================================================================*/
