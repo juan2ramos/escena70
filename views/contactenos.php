@@ -28,11 +28,19 @@
         <h3>O puedes escribirle a...</h3>
         <div>
             Coordinación Artistas Rueda de Negocios<br>
+            Milena García<br>
             <a href="mailto:convocatoriaescena70@complejoteatral.gob.ar">convocatoriaescena70@complejoteatral.gob.ar</a><br>
+            Nicolás González
+            <a href="mailto:nicolasescena70@complejoteatral.gob.ar">nicolasescena70@complejoteatral.gob.ar</a><br>
+
         </div>
         <div>
             Coordinación Programadores Rueda de Negocios<br>
+            Luis Fernando Zuluaga<br>
             <a href="mailto:programadoresescena70@complejoteatral.gob.ar">programadoresescena70@complejoteatral.gob.ar</a><br>
+            Gonzalo Bao <br/>
+            <a href="mailto:gonzaloescena70@complejoteatral.gob.ar">gonzaloescena70@complejoteatral.gob.ar</a><br>
+
         </div>
 
     </div>
