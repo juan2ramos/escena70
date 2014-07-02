@@ -411,6 +411,10 @@ Form Contact
     vertical-align: top;
     width: 680px;
 }
+.contactenos p{
+    margin: 50px 0  0;
+    font-weight: 500
+}
 .contacto{
     margin: 25px auto;
 }
@@ -427,7 +431,11 @@ Form Contact
     font-size: .9em;
     font-weight: bold;
 }
-
+.contact-info h4{
+    margin: 0;
+    font-weight: 500;
+    font-size: 1em
+}
 .contact-info a:hover {
     color: #f8db00;
 }
@@ -449,7 +457,7 @@ Form Contact
     width: 100px;
 }
 
-.input-contend input, .input-contend textarea {
+.input-contend input, .input-contend textarea,.input-contend select {
     border: none;
     box-shadow: inset 1px 1px 5px rgba(108, 108, 108, 0.41);
     -moz-box-sizing: border-box;

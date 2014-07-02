@@ -62,10 +62,6 @@
         <li>
             <a href="http://escena70.complejoteatral.gob.ar/m/index.php?modo=inscripciones" target="_blank">convocatoria</a>
         </li>
-        <li>
-            <a href="#" <?php if('program'==$url){echo($class);}?>>programadores</a>
-            <span class="tooltip">Muy pronto ...</span>
-        </li>
         <li><a href="presentaciones-artisticas" <?php if('presentaciones-artisticas'==$url){echo($class);}?>>Presentaciones artísticas</a></li>
         <li><a href="rueda-de-negocios" <?php if('rueda-de-negocios'==$url){echo($class);}?>>rueda de negocios</a></li>
         <li><a href="datos-utiles" <?php if('datos-utiles'==$url){echo($class);}?>>Datos útiles</a></li>

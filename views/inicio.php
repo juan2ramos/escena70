@@ -11,12 +11,21 @@
             Buenos Aires realizará por única vez<b> Escena 70 – Mercado de Artes Escénicas de Buenos
                 Aires.</b>
         </p>
+
         <p>
-            <b>Escena 70 - Mercado de Artes Escénicas de Buenos Aires</b> desea propiciar la creación de una plataforma exportadora para las artes escénicas de Buenos Aires que permita proyectar internacionalmente la vasta producción artística de esta parte del mundo.
+            <b>Escena 70 - Mercado de Artes Escénicas de Buenos Aires</b> desea propiciar la creación de una plataforma
+            exportadora para las artes escénicas de Buenos Aires que permita proyectar internacionalmente la vasta
+            producción artística de esta parte del mundo.
         </p>
+
         <p>
-            Durante tres días empresarios culturales, productores, managers, creadores, especialistas en marketing cultural y artistas, encontrarán en <b>Escena 70</b> la oportunidad ideal para conocer las mejores propuestas de teatro, danza, performance y títeres producidas en Buenos Aires, intercambiar experiencias de negocios, ampliar los circuitos de recepción y consumo de sus productos culturales, negociar las condiciones de presentación y circulación, y sobre todo, abrir las puertas del mundo a la diversidad cultural porteña.
+            Durante tres días empresarios culturales, productores, managers, creadores, especialistas en marketing
+            cultural y artistas, encontrarán en <b>Escena 70</b> la oportunidad ideal para conocer las mejores
+            propuestas de teatro, danza, performance, circo y títeres producidas en Buenos Aires, intercambiar experiencias de
+            negocios, ampliar los circuitos de recepción y consumo de sus productos culturales, negociar las condiciones
+            de presentación y circulación, y sobre todo, abrir las puertas del mundo a la diversidad cultural porteña.
         </p>
+
         <p>Organiza Complejo Teatral de Buenos Aires</p>
 
         <p>En colaboración con Redlat Colombia / Circulart</p>
@@ -36,7 +45,7 @@
 
         <p><b>Tercera semana de agosto:</b> Publicación de resultados</p>
 
-        <p>    <b>6 de septiembre:</b> Apertura agendamiento de citas entre Artistas y Profesionales </p>
+        <p><b>6 de septiembre:</b> Apertura agendamiento de citas entre Artistas y Profesionales </p>
 
         <p><b>27 de septiembre:</b> Cierre agendamiento </p>
 
@@ -61,7 +70,7 @@
         <figure>
 
             <a href="http://complejoteatral.gob.ar/institucional/estructura?ascm_content_change=Teatro_SanMartin">
-            <img src="images/foto1.jpg" alt="foto 1"/>
+                <img src="images/foto1.jpg" alt="foto 1"/>
             </a>
             <figcaption>
                 <p>Teatro Municipal <span>&nbsp&nbspGeneral San Martín</span>
